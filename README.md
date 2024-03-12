@@ -1,4 +1,4 @@
-# <p align="center">VALUE ITERATION ALGORITHM...</p>
+# VALUE ITERATION ALGORITHM
 
 ## AIM :
 
