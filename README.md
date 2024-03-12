@@ -108,7 +108,9 @@ The algorithm is as follows :
 ## VALUE ITERATION FUNCTION :
 
 ```python
-## developed by :ganesh r
+## Developed by : Ganesh R
+## Reg No : 212222240029
+
 def value_iteration(P, gamma=1.0, theta=1e-10):
     V = np.zeros(len(P), dtype=np.float64)
     # Write your code here
